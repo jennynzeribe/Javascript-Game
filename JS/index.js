@@ -42,7 +42,12 @@ const words = [
     'siblings',
     'joke',
     'stubborn',
-    'javascript'
+    'javascript',
+    'america',
+    'nigeria',
+    'london',
+    'korea',
+    'china'
 ];
 
 //initialize
